@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28448-lear
 x-kinRank: "7"
 x-alexaRank: "5836977"
 tags: Trainings
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/trainings/master/_listings/learnifier/apis.md
 specificationVersion: "0.14"
 apis: []

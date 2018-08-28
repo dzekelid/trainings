@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/274-viddle
 x-kinRank: "8"
 x-alexaRank: "81111"
 tags: Trainings
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/trainings/master/_listings/viddler/apis.md
 specificationVersion: "0.14"
 apis: []
